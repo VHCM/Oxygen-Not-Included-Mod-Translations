@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. BuildableNaturalTile.STRINGS.NAME
+msgctxt "BuildableNaturalTile.STRINGS.NAME"
+msgid "Piso Natural"
+msgstr "Piso Natural"
+
+#. BuildableNaturalTile.STRINGS.DESCRIPTION
+msgctxt "BuildableNaturalTile.STRINGS.DESCRIPTION"
+msgid "Preencha o buraco que você cavou atrás com qualquer elemento sólido."
+msgstr "Preencha o buraco que você cavou atrás com qualquer elemento sólido."
+
+#. BuildableNaturalTile.STRINGS.EFFECT
+msgctxt "BuildableNaturalTile.STRINGS.EFFECT"
+msgid "Preenche um bloco no mundo com <link=\"ELEMENTSSOLID\">Sólidos</link>."
+msgstr "Preenche um bloco no mundo com <link=\"ELEMENTSSOLID\">Sólidos</link>."
